@@ -36,7 +36,7 @@ Follow these steps to set up and play the game:
    git clone https://github.com/yourusername/snake-game.git
    cd snake-game
   ```
-2️⃣ Install Dependencies
+[2️⃣ Install Dependencies]2️⃣ Install Dependencies
     Ensure Python and pip are installed on your system, then install Pygame:
 
  ```bash
