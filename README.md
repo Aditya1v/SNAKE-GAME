@@ -36,27 +36,28 @@ Follow these steps to set up and play the game:
    git clone https://github.com/yourusername/snake-game.git
    cd snake-game
   ```
-[2️⃣ Install Dependencies]2️⃣ Install Dependencies
-    Ensure Python and pip are installed on your system, then install Pygame:
+### 2️⃣ Install Dependencies
+
+ Ensure Python and pip are installed on your system, then install Pygame:
 
  ```bash
    pip install pygame
   ```
-3️⃣ Launch the Game
-   Execute the following command:
+### 3️⃣ Launch the Game
+ Execute the following command:
  ```bash
    python main.py
 ```
-🎮 Game Controls
-Key	Action
-⬅️ Left Arrow	Move Left
-➡️ Right Arrow	Move Right
-⬆️ Up Arrow	Move Up
-⬇️ Down Arrow	Move Down
-🔄 P	Play Again (on Game Over)
-❌ Q	Quit the Game
+### 🎮 Game Controls
+   key	Action
+    ⬅️ Left Arrow	Move Left
+    ➡️ Right Arrow	Move Right
+    ⬆️ Up Arrow	Move Up
+    ⬇️ Down Arrow	Move Down
+    🔄 P	Play Again (on Game Over)
+    ❌ Q	Quit the Game
 
-🏁 Conclusion
+#### 🏁 Conclusion
 The Snake Game is a testament to the timeless appeal of simple yet challenging games. Built with Python and Pygame, it offers an excellent foundation for exploring game development while delivering an enjoyable experience for players of all ages. Whether you're here to relive nostalgic moments or expand the project with your own ideas, this game is the perfect starting point.
 
 We hope you enjoy playing and learning from this project. Feel free to share your feedback, contribute to its development, or customize it to make it your own. 🚀🐍
